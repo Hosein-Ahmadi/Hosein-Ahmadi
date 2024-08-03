@@ -22,7 +22,11 @@ let Me = {
     skills: ["HTML", "CSS", "JS", "Tailwin Css", "BootStrap", "Rest API", "Regex", "Git", "Github..."]
 }
 ```
-
+## Connect Me 
+<a href="https://www.instagram.com/ahmadi.developer/"><img src="https://img.shields.io/badge/Instagram-ahmadi.developer-red?logo=instagram" /><a/>
+<a href="https://t.me/Master_Ahmady"><img src="https://img.shields.io/badge/telegram-Master_Ahmady-blue?logo=telegram" /><a/>
+<a href="https://github.com/Hosein-Ahmadi/"><img src="https://img.shields.io/badge/Github-Hosein%20Ahmadi-yellow?logo=github" /><a/>
+<a href="https://www.linkedin.com/in/master-ahmadi/"><img src="https://img.shields.io/badge/linkedin-Master%20Ahmadi-blue?logo=linkedin" /><a/>
 - 🔭 I’m currently learning ReactJs❤️‍🔥
 - 🌱 I’m currently Making my Body💪
 
