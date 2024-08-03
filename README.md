@@ -29,6 +29,24 @@ let Me = {
 <a href="https://www.linkedin.com/in/master-ahmadi/"><img src="https://img.shields.io/badge/linkedin-Master%20Ahmadi-blue?logo=linkedin" /><a/>
 - 🔭 I’m currently learning ReactJs❤️‍🔥
 - 🌱 I’m currently Making my Body💪
+<hr />
+<h2>🔧 &nbsp; Tech Stack</h2>
+
+- 🌐 &nbsp;
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![Tailwind Css](https://img.shields.io/badge/-TailwindCss-333333?style=flat&logo=tailwindcss&logoColor=06B6D4)
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Redux](https://img.shields.io/badge/-Redux-333333?style=flat&logo=redux&logoColor=764ABC)
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br />
 
 ## My most languages usage:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hosein-Ahmadi&layout=pie)
